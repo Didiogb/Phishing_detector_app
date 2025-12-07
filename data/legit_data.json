@@ -1,0 +1,2002 @@
+[
+  {
+    "domain": "https://google.com",
+    "label": 0
+  },
+  {
+    "domain": "https://mail.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://microsoft.com",
+    "label": 0
+  },
+  {
+    "domain": "https://facebook.com",
+    "label": 0
+  },
+  {
+    "domain": "https://cloudflare.com",
+    "label": 0
+  },
+  {
+    "domain": "https://amazonaws.com",
+    "label": 0
+  },
+  {
+    "domain": "https://googleapis.com",
+    "label": 0
+  },
+  {
+    "domain": "https://dzen.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://youtube.com",
+    "label": 0
+  },
+  {
+    "domain": "https://apple.com",
+    "label": 0
+  },
+  {
+    "domain": "https://instagram.com",
+    "label": 0
+  },
+  {
+    "domain": "https://gstatic.com",
+    "label": 0
+  },
+  {
+    "domain": "https://office.com",
+    "label": 0
+  },
+  {
+    "domain": "https://twitter.com",
+    "label": 0
+  },
+  {
+    "domain": "https://gtld-servers.net",
+    "label": 0
+  },
+  {
+    "domain": "https://live.com",
+    "label": 0
+  },
+  {
+    "domain": "https://akamai.net",
+    "label": 0
+  },
+  {
+    "domain": "https://linkedin.com",
+    "label": 0
+  },
+  {
+    "domain": "https://googlevideo.com",
+    "label": 0
+  },
+  {
+    "domain": "https://14emeliaterracewestroxburyma02132.su",
+    "label": 0
+  },
+  {
+    "domain": "https://googletagmanager.com",
+    "label": 0
+  },
+  {
+    "domain": "https://akamaiedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://amazon.com",
+    "label": 0
+  },
+  {
+    "domain": "https://fbcdn.net",
+    "label": 0
+  },
+  {
+    "domain": "https://akadns.net",
+    "label": 0
+  },
+  {
+    "domain": "https://microsoftonline.com",
+    "label": 0
+  },
+  {
+    "domain": "https://workers.dev",
+    "label": 0
+  },
+  {
+    "domain": "https://doubleclick.net",
+    "label": 0
+  },
+  {
+    "domain": "https://windowsupdate.com",
+    "label": 0
+  },
+  {
+    "domain": "https://googleusercontent.com",
+    "label": 0
+  },
+  {
+    "domain": "https://wikipedia.org",
+    "label": 0
+  },
+  {
+    "domain": "https://azure.com",
+    "label": 0
+  },
+  {
+    "domain": "https://bing.com",
+    "label": 0
+  },
+  {
+    "domain": "https://github.com",
+    "label": 0
+  },
+  {
+    "domain": "https://ax-msedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://t-msedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://whatsapp.net",
+    "label": 0
+  },
+  {
+    "domain": "https://office.net",
+    "label": 0
+  },
+  {
+    "domain": "https://fastly.net",
+    "label": 0
+  },
+  {
+    "domain": "https://digicert.com",
+    "label": 0
+  },
+  {
+    "domain": "https://wordpress.org",
+    "label": 0
+  },
+  {
+    "domain": "https://netflix.com",
+    "label": 0
+  },
+  {
+    "domain": "https://appsflyersdk.com",
+    "label": 0
+  },
+  {
+    "domain": "https://apple-dns.net",
+    "label": 0
+  },
+  {
+    "domain": "https://youtu.be",
+    "label": 0
+  },
+  {
+    "domain": "https://aaplimg.com",
+    "label": 0
+  },
+  {
+    "domain": "https://pinterest.com",
+    "label": 0
+  },
+  {
+    "domain": "https://icloud.com",
+    "label": 0
+  },
+  {
+    "domain": "https://googlesyndication.com",
+    "label": 0
+  },
+  {
+    "domain": "https://domaincontrol.com",
+    "label": 0
+  },
+  {
+    "domain": "https://e2ro.com",
+    "label": 0
+  },
+  {
+    "domain": "https://yahoo.com",
+    "label": 0
+  },
+  {
+    "domain": "https://trafficmanager.net",
+    "label": 0
+  },
+  {
+    "domain": "https://sharepoint.com",
+    "label": 0
+  },
+  {
+    "domain": "https://nic.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://windows.net",
+    "label": 0
+  },
+  {
+    "domain": "https://ntp.org",
+    "label": 0
+  },
+  {
+    "domain": "https://whatsapp.com",
+    "label": 0
+  },
+  {
+    "domain": "https://skype.com",
+    "label": 0
+  },
+  {
+    "domain": "https://roblox.com",
+    "label": 0
+  },
+  {
+    "domain": "https://goo.gl",
+    "label": 0
+  },
+  {
+    "domain": "https://tiktokcdn.com",
+    "label": 0
+  },
+  {
+    "domain": "https://msn.com",
+    "label": 0
+  },
+  {
+    "domain": "https://dual-s-msedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://x.com",
+    "label": 0
+  },
+  {
+    "domain": "https://adobe.com",
+    "label": 0
+  },
+  {
+    "domain": "https://spotify.com",
+    "label": 0
+  },
+  {
+    "domain": "https://gandi.net",
+    "label": 0
+  },
+  {
+    "domain": "https://vimeo.com",
+    "label": 0
+  },
+  {
+    "domain": "https://tiktok.com",
+    "label": 0
+  },
+  {
+    "domain": "https://gvt2.com",
+    "label": 0
+  },
+  {
+    "domain": "https://cloudfront.net",
+    "label": 0
+  },
+  {
+    "domain": "https://gvt1.com",
+    "label": 0
+  },
+  {
+    "domain": "https://akam.net",
+    "label": 0
+  },
+  {
+    "domain": "https://tiktokv.com",
+    "label": 0
+  },
+  {
+    "domain": "https://ln-msedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://ytimg.com",
+    "label": 0
+  },
+  {
+    "domain": "https://bit.ly",
+    "label": 0
+  },
+  {
+    "domain": "https://qq.com",
+    "label": 0
+  },
+  {
+    "domain": "https://zoom.us",
+    "label": 0
+  },
+  {
+    "domain": "https://ripn.net",
+    "label": 0
+  },
+  {
+    "domain": "https://cloudflare.net",
+    "label": 0
+  },
+  {
+    "domain": "https://opera.com",
+    "label": 0
+  },
+  {
+    "domain": "https://office365.com",
+    "label": 0
+  },
+  {
+    "domain": "https://yandex.net",
+    "label": 0
+  },
+  {
+    "domain": "https://wordpress.com",
+    "label": 0
+  },
+  {
+    "domain": "https://google-analytics.com",
+    "label": 0
+  },
+  {
+    "domain": "https://samsung.com",
+    "label": 0
+  },
+  {
+    "domain": "https://baidu.com",
+    "label": 0
+  },
+  {
+    "domain": "https://root-servers.net",
+    "label": 0
+  },
+  {
+    "domain": "https://wa.me",
+    "label": 0
+  },
+  {
+    "domain": "https://cloudflare-dns.com",
+    "label": 0
+  },
+  {
+    "domain": "https://vedcdnlb.com",
+    "label": 0
+  },
+  {
+    "domain": "https://cdninstagram.com",
+    "label": 0
+  },
+  {
+    "domain": "https://nginx.org",
+    "label": 0
+  },
+  {
+    "domain": "https://edgekey.net",
+    "label": 0
+  },
+  {
+    "domain": "https://googledomains.com",
+    "label": 0
+  },
+  {
+    "domain": "https://windows.com",
+    "label": 0
+  },
+  {
+    "domain": "https://reddit.com",
+    "label": 0
+  },
+  {
+    "domain": "https://nginx.com",
+    "label": 0
+  },
+  {
+    "domain": "https://googleadservices.com",
+    "label": 0
+  },
+  {
+    "domain": "https://a2z.com",
+    "label": 0
+  },
+  {
+    "domain": "https://mozilla.org",
+    "label": 0
+  },
+  {
+    "domain": "https://unity3d.com",
+    "label": 0
+  },
+  {
+    "domain": "https://ui.com",
+    "label": 0
+  },
+  {
+    "domain": "https://wac-msedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://blogspot.com",
+    "label": 0
+  },
+  {
+    "domain": "https://edgesuite.net",
+    "label": 0
+  },
+  {
+    "domain": "https://transunion.com",
+    "label": 0
+  },
+  {
+    "domain": "https://t.me",
+    "label": 0
+  },
+  {
+    "domain": "https://okcdn.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://criteo.com",
+    "label": 0
+  },
+  {
+    "domain": "https://amazon-adsystem.com",
+    "label": 0
+  },
+  {
+    "domain": "https://vk.com",
+    "label": 0
+  },
+  {
+    "domain": "https://sentry.io",
+    "label": 0
+  },
+  {
+    "domain": "https://europa.eu",
+    "label": 0
+  },
+  {
+    "domain": "https://msedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://snapchat.com",
+    "label": 0
+  },
+  {
+    "domain": "https://intuit.com",
+    "label": 0
+  },
+  {
+    "domain": "https://userapi.com",
+    "label": 0
+  },
+  {
+    "domain": "https://dns.google",
+    "label": 0
+  },
+  {
+    "domain": "https://apache.org",
+    "label": 0
+  },
+  {
+    "domain": "https://github.io",
+    "label": 0
+  },
+  {
+    "domain": "https://app-measurement.com",
+    "label": 0
+  },
+  {
+    "domain": "https://bytefcdn-oversea.com",
+    "label": 0
+  },
+  {
+    "domain": "https://adriver.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://aiv-cdn.net",
+    "label": 0
+  },
+  {
+    "domain": "https://one.one",
+    "label": 0
+  },
+  {
+    "domain": "https://gravatar.com",
+    "label": 0
+  },
+  {
+    "domain": "https://trbcdn.net",
+    "label": 0
+  },
+  {
+    "domain": "https://dropbox.com",
+    "label": 0
+  },
+  {
+    "domain": "https://outlook.com",
+    "label": 0
+  },
+  {
+    "domain": "https://paypal.com",
+    "label": 0
+  },
+  {
+    "domain": "https://msftncsi.com",
+    "label": 0
+  },
+  {
+    "domain": "https://telekom.de",
+    "label": 0
+  },
+  {
+    "domain": "https://adnxs.com",
+    "label": 0
+  },
+  {
+    "domain": "https://xiaomi.com",
+    "label": 0
+  },
+  {
+    "domain": "https://miit.gov.cn",
+    "label": 0
+  },
+  {
+    "domain": "https://cloud.microsoft",
+    "label": 0
+  },
+  {
+    "domain": "https://yandex.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://discord.gg",
+    "label": 0
+  },
+  {
+    "domain": "https://tumblr.com",
+    "label": 0
+  },
+  {
+    "domain": "https://archive.org",
+    "label": 0
+  },
+  {
+    "domain": "https://registrar-servers.com",
+    "label": 0
+  },
+  {
+    "domain": "https://app-analytics-services.com",
+    "label": 0
+  },
+  {
+    "domain": "https://nih.gov",
+    "label": 0
+  },
+  {
+    "domain": "https://pki.goog",
+    "label": 0
+  },
+  {
+    "domain": "https://nist.gov",
+    "label": 0
+  },
+  {
+    "domain": "https://rubiconproject.com",
+    "label": 0
+  },
+  {
+    "domain": "https://epicgames.com",
+    "label": 0
+  },
+  {
+    "domain": "https://steamserver.net",
+    "label": 0
+  },
+  {
+    "domain": "https://forms.gle",
+    "label": 0
+  },
+  {
+    "domain": "https://applovin.com",
+    "label": 0
+  },
+  {
+    "domain": "https://ggpht.com",
+    "label": 0
+  },
+  {
+    "domain": "https://3gppnetwork.org",
+    "label": 0
+  },
+  {
+    "domain": "https://dnsowl.com",
+    "label": 0
+  },
+  {
+    "domain": "https://b-cdn.net",
+    "label": 0
+  },
+  {
+    "domain": "https://nytimes.com",
+    "label": 0
+  },
+  {
+    "domain": "https://kaspersky.com",
+    "label": 0
+  },
+  {
+    "domain": "https://amazon.dev",
+    "label": 0
+  },
+  {
+    "domain": "https://reg.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://f5.com",
+    "label": 0
+  },
+  {
+    "domain": "https://macromedia.com",
+    "label": 0
+  },
+  {
+    "domain": "https://tiktokcdn-us.com",
+    "label": 0
+  },
+  {
+    "domain": "https://cdn77.org",
+    "label": 0
+  },
+  {
+    "domain": "https://vecdnlb.com",
+    "label": 0
+  },
+  {
+    "domain": "https://flickr.com",
+    "label": 0
+  },
+  {
+    "domain": "https://spov-msedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://chatgpt.com",
+    "label": 0
+  },
+  {
+    "domain": "https://wildberries.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://shopify.com",
+    "label": 0
+  },
+  {
+    "domain": "https://ozon.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://pubmatic.com",
+    "label": 0
+  },
+  {
+    "domain": "https://medium.com",
+    "label": 0
+  },
+  {
+    "domain": "https://amazonvideo.com",
+    "label": 0
+  },
+  {
+    "domain": "https://taboola.com",
+    "label": 0
+  },
+  {
+    "domain": "https://aliyuncs.com",
+    "label": 0
+  },
+  {
+    "domain": "https://miui.com",
+    "label": 0
+  },
+  {
+    "domain": "https://casalemedia.com",
+    "label": 0
+  },
+  {
+    "domain": "https://spo-msedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://rbxcdn.com",
+    "label": 0
+  },
+  {
+    "domain": "https://salesforce.com",
+    "label": 0
+  },
+  {
+    "domain": "https://cnn.com",
+    "label": 0
+  },
+  {
+    "domain": "https://adobe.io",
+    "label": 0
+  },
+  {
+    "domain": "https://soundcloud.com",
+    "label": 0
+  },
+  {
+    "domain": "https://msftconnecttest.com",
+    "label": 0
+  },
+  {
+    "domain": "https://shifen.com",
+    "label": 0
+  },
+  {
+    "domain": "https://w3.org",
+    "label": 0
+  },
+  {
+    "domain": "https://android.com",
+    "label": 0
+  },
+  {
+    "domain": "https://godaddy.com",
+    "label": 0
+  },
+  {
+    "domain": "https://theguardian.com",
+    "label": 0
+  },
+  {
+    "domain": "https://t.co",
+    "label": 0
+  },
+  {
+    "domain": "https://adtrafficquality.google",
+    "label": 0
+  },
+  {
+    "domain": "https://cdn-apple.com",
+    "label": 0
+  },
+  {
+    "domain": "https://discord.com",
+    "label": 0
+  },
+  {
+    "domain": "https://azurefd.net",
+    "label": 0
+  },
+  {
+    "domain": "https://adsrvr.org",
+    "label": 0
+  },
+  {
+    "domain": "https://nflxso.net",
+    "label": 0
+  },
+  {
+    "domain": "https://doubleverify.com",
+    "label": 0
+  },
+  {
+    "domain": "https://edgecdn.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://vungle.com",
+    "label": 0
+  },
+  {
+    "domain": "https://pv-cdn.net",
+    "label": 0
+  },
+  {
+    "domain": "https://jomodns.com",
+    "label": 0
+  },
+  {
+    "domain": "https://forbes.com",
+    "label": 0
+  },
+  {
+    "domain": "https://lencr.org",
+    "label": 0
+  },
+  {
+    "domain": "https://myfritz.net",
+    "label": 0
+  },
+  {
+    "domain": "https://creativecommons.org",
+    "label": 0
+  },
+  {
+    "domain": "https://azurewebsites.net",
+    "label": 0
+  },
+  {
+    "domain": "https://example.com",
+    "label": 0
+  },
+  {
+    "domain": "https://meraki.com",
+    "label": 0
+  },
+  {
+    "domain": "https://twitch.tv",
+    "label": 0
+  },
+  {
+    "domain": "https://bbc.co.uk",
+    "label": 0
+  },
+  {
+    "domain": "https://sourceforge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://mts.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://dns.cn",
+    "label": 0
+  },
+  {
+    "domain": "https://ebay.com",
+    "label": 0
+  },
+  {
+    "domain": "https://bbc.com",
+    "label": 0
+  },
+  {
+    "domain": "https://gmail.com",
+    "label": 0
+  },
+  {
+    "domain": "https://demdex.net",
+    "label": 0
+  },
+  {
+    "domain": "https://webex.com",
+    "label": 0
+  },
+  {
+    "domain": "https://overload.su",
+    "label": 0
+  },
+  {
+    "domain": "https://oracle.com",
+    "label": 0
+  },
+  {
+    "domain": "https://ksyuncdn.com",
+    "label": 0
+  },
+  {
+    "domain": "https://weather.com",
+    "label": 0
+  },
+  {
+    "domain": "https://sciencedirect.com",
+    "label": 0
+  },
+  {
+    "domain": "https://cpanel.net",
+    "label": 0
+  },
+  {
+    "domain": "https://netangels.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://roku.com",
+    "label": 0
+  },
+  {
+    "domain": "https://scorecardresearch.com",
+    "label": 0
+  },
+  {
+    "domain": "https://dccnet.com.cn",
+    "label": 0
+  },
+  {
+    "domain": "https://akamaized.net",
+    "label": 0
+  },
+  {
+    "domain": "https://mit.edu",
+    "label": 0
+  },
+  {
+    "domain": "https://ubuntu.com",
+    "label": 0
+  },
+  {
+    "domain": "https://researchgate.net",
+    "label": 0
+  },
+  {
+    "domain": "https://kwai-pro.com",
+    "label": 0
+  },
+  {
+    "domain": "https://wsdvs.com",
+    "label": 0
+  },
+  {
+    "domain": "https://a-msedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://imdb.com",
+    "label": 0
+  },
+  {
+    "domain": "https://mangosip.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://doi.org",
+    "label": 0
+  },
+  {
+    "domain": "https://cisco.com",
+    "label": 0
+  },
+  {
+    "domain": "https://wixsite.com",
+    "label": 0
+  },
+  {
+    "domain": "https://comcast.net",
+    "label": 0
+  },
+  {
+    "domain": "https://openai.com",
+    "label": 0
+  },
+  {
+    "domain": "https://dell.com",
+    "label": 0
+  },
+  {
+    "domain": "https://youtube-nocookie.com",
+    "label": 0
+  },
+  {
+    "domain": "https://hubspot.com",
+    "label": 0
+  },
+  {
+    "domain": "https://capcutapi.com",
+    "label": 0
+  },
+  {
+    "domain": "https://static.microsoft",
+    "label": 0
+  },
+  {
+    "domain": "https://rocket-cdn.com",
+    "label": 0
+  },
+  {
+    "domain": "https://linktr.ee",
+    "label": 0
+  },
+  {
+    "domain": "https://nr-data.net",
+    "label": 0
+  },
+  {
+    "domain": "https://wikimedia.org",
+    "label": 0
+  },
+  {
+    "domain": "https://nstld.com",
+    "label": 0
+  },
+  {
+    "domain": "https://cdngslb.com",
+    "label": 0
+  },
+  {
+    "domain": "https://mtgglobals.com",
+    "label": 0
+  },
+  {
+    "domain": "https://who.int",
+    "label": 0
+  },
+  {
+    "domain": "https://hp.com",
+    "label": 0
+  },
+  {
+    "domain": "https://googleblog.com",
+    "label": 0
+  },
+  {
+    "domain": "https://drom.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://azureedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://inmobi.com",
+    "label": 0
+  },
+  {
+    "domain": "https://mozilla.com",
+    "label": 0
+  },
+  {
+    "domain": "https://moe.video",
+    "label": 0
+  },
+  {
+    "domain": "https://safebrowsing.apple",
+    "label": 0
+  },
+  {
+    "domain": "https://aws.dev",
+    "label": 0
+  },
+  {
+    "domain": "https://canva.com",
+    "label": 0
+  },
+  {
+    "domain": "https://omtrdc.net",
+    "label": 0
+  },
+  {
+    "domain": "https://tinyurl.com",
+    "label": 0
+  },
+  {
+    "domain": "https://alibabadns.com",
+    "label": 0
+  },
+  {
+    "domain": "https://harvard.edu",
+    "label": 0
+  },
+  {
+    "domain": "https://ttdns2.com",
+    "label": 0
+  },
+  {
+    "domain": "https://appsflyer.com",
+    "label": 0
+  },
+  {
+    "domain": "https://launchpad.net",
+    "label": 0
+  },
+  {
+    "domain": "https://facebook.net",
+    "label": 0
+  },
+  {
+    "domain": "https://ttvnw.net",
+    "label": 0
+  },
+  {
+    "domain": "https://2mdn.net",
+    "label": 0
+  },
+  {
+    "domain": "https://playstation.net",
+    "label": 0
+  },
+  {
+    "domain": "https://vedsalb.com",
+    "label": 0
+  },
+  {
+    "domain": "https://mikrotik.com",
+    "label": 0
+  },
+  {
+    "domain": "https://dropcatch.com",
+    "label": 0
+  },
+  {
+    "domain": "https://openx.net",
+    "label": 0
+  },
+  {
+    "domain": "https://launchdarkly.com",
+    "label": 0
+  },
+  {
+    "domain": "https://ibm.com",
+    "label": 0
+  },
+  {
+    "domain": "https://grammarly.com",
+    "label": 0
+  },
+  {
+    "domain": "https://media-amazon.com",
+    "label": 0
+  },
+  {
+    "domain": "https://stripe.com",
+    "label": 0
+  },
+  {
+    "domain": "https://samsungcloud.com",
+    "label": 0
+  },
+  {
+    "domain": "https://crashlytics.com",
+    "label": 0
+  },
+  {
+    "domain": "https://amazon.co.uk",
+    "label": 0
+  },
+  {
+    "domain": "https://samsungqbe.com",
+    "label": 0
+  },
+  {
+    "domain": "https://nease.net",
+    "label": 0
+  },
+  {
+    "domain": "https://ampproject.org",
+    "label": 0
+  },
+  {
+    "domain": "https://nominetdns.uk",
+    "label": 0
+  },
+  {
+    "domain": "https://reuters.com",
+    "label": 0
+  },
+  {
+    "domain": "https://telecid.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://mzstatic.com",
+    "label": 0
+  },
+  {
+    "domain": "https://notamedia.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://hichina.com",
+    "label": 0
+  },
+  {
+    "domain": "https://www.gov.uk",
+    "label": 0
+  },
+  {
+    "domain": "https://ea.com",
+    "label": 0
+  },
+  {
+    "domain": "https://issuu.com",
+    "label": 0
+  },
+  {
+    "domain": "https://go.com",
+    "label": 0
+  },
+  {
+    "domain": "https://jsdelivr.net",
+    "label": 0
+  },
+  {
+    "domain": "https://steampowered.com",
+    "label": 0
+  },
+  {
+    "domain": "https://media.net",
+    "label": 0
+  },
+  {
+    "domain": "https://avast.com",
+    "label": 0
+  },
+  {
+    "domain": "https://shalltry.com",
+    "label": 0
+  },
+  {
+    "domain": "https://tradingview.com",
+    "label": 0
+  },
+  {
+    "domain": "https://pages.dev",
+    "label": 0
+  },
+  {
+    "domain": "https://alibaba.com",
+    "label": 0
+  },
+  {
+    "domain": "https://debian.org",
+    "label": 0
+  },
+  {
+    "domain": "https://3lift.com",
+    "label": 0
+  },
+  {
+    "domain": "https://weebly.com",
+    "label": 0
+  },
+  {
+    "domain": "https://ivi.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://sharethrough.com",
+    "label": 0
+  },
+  {
+    "domain": "https://mi.com",
+    "label": 0
+  },
+  {
+    "domain": "https://php.net",
+    "label": 0
+  },
+  {
+    "domain": "https://adsafeprotected.com",
+    "label": 0
+  },
+  {
+    "domain": "https://slack.com",
+    "label": 0
+  },
+  {
+    "domain": "https://weibo.com",
+    "label": 0
+  },
+  {
+    "domain": "https://nature.com",
+    "label": 0
+  },
+  {
+    "domain": "https://wiley.com",
+    "label": 0
+  },
+  {
+    "domain": "https://bidswitch.net",
+    "label": 0
+  },
+  {
+    "domain": "https://ok.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://smartadserver.com",
+    "label": 0
+  },
+  {
+    "domain": "https://heytapmobile.com",
+    "label": 0
+  },
+  {
+    "domain": "https://huawei.com",
+    "label": 0
+  },
+  {
+    "domain": "https://douyincdn.com",
+    "label": 0
+  },
+  {
+    "domain": "https://booking.com",
+    "label": 0
+  },
+  {
+    "domain": "https://vkuser.net",
+    "label": 0
+  },
+  {
+    "domain": "https://sberbank.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://forter.com",
+    "label": 0
+  },
+  {
+    "domain": "https://autodesk.com",
+    "label": 0
+  },
+  {
+    "domain": "https://adobe.net",
+    "label": 0
+  },
+  {
+    "domain": "https://fastly-edge.com",
+    "label": 0
+  },
+  {
+    "domain": "https://browser-intake-datadoghq.com",
+    "label": 0
+  },
+  {
+    "domain": "https://cdc.gov",
+    "label": 0
+  },
+  {
+    "domain": "https://tiktokv.us",
+    "label": 0
+  },
+  {
+    "domain": "https://myshopify.com",
+    "label": 0
+  },
+  {
+    "domain": "https://kaspersky-labs.com",
+    "label": 0
+  },
+  {
+    "domain": "https://opendns.com",
+    "label": 0
+  },
+  {
+    "domain": "https://springer.com",
+    "label": 0
+  },
+  {
+    "domain": "https://dns-parking.com",
+    "label": 0
+  },
+  {
+    "domain": "https://dailymail.co.uk",
+    "label": 0
+  },
+  {
+    "domain": "https://etsy.com",
+    "label": 0
+  },
+  {
+    "domain": "https://groksearch.net",
+    "label": 0
+  },
+  {
+    "domain": "https://cloudns.net",
+    "label": 0
+  },
+  {
+    "domain": "https://dailymotion.com",
+    "label": 0
+  },
+  {
+    "domain": "https://washingtonpost.com",
+    "label": 0
+  },
+  {
+    "domain": "https://byteoversea.net",
+    "label": 0
+  },
+  {
+    "domain": "https://arubanetworks.com",
+    "label": 0
+  },
+  {
+    "domain": "https://wsj.com",
+    "label": 0
+  },
+  {
+    "domain": "https://clarity.ms",
+    "label": 0
+  },
+  {
+    "domain": "https://id5-sync.com",
+    "label": 0
+  },
+  {
+    "domain": "https://gnu.org",
+    "label": 0
+  },
+  {
+    "domain": "https://akamaihd.net",
+    "label": 0
+  },
+  {
+    "domain": "https://checkpoint.com",
+    "label": 0
+  },
+  {
+    "domain": "https://telegraph.co.uk",
+    "label": 0
+  },
+  {
+    "domain": "https://naver.com",
+    "label": 0
+  },
+  {
+    "domain": "https://consultant.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://mynetname.net",
+    "label": 0
+  },
+  {
+    "domain": "https://bloomberg.com",
+    "label": 0
+  },
+  {
+    "domain": "https://un.org",
+    "label": 0
+  },
+  {
+    "domain": "https://samsungcloudsolution.com",
+    "label": 0
+  },
+  {
+    "domain": "https://allawnos.com",
+    "label": 0
+  },
+  {
+    "domain": "https://vkontakte.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://espn.com",
+    "label": 0
+  },
+  {
+    "domain": "https://aliyun.com",
+    "label": 0
+  },
+  {
+    "domain": "https://wp.com",
+    "label": 0
+  },
+  {
+    "domain": "https://dotomi.com",
+    "label": 0
+  },
+  {
+    "domain": "https://heytapdl.com",
+    "label": 0
+  },
+  {
+    "domain": "https://uol.com.br",
+    "label": 0
+  },
+  {
+    "domain": "https://ibyteimg.com",
+    "label": 0
+  },
+  {
+    "domain": "https://bilibili.com",
+    "label": 0
+  },
+  {
+    "domain": "https://stanford.edu",
+    "label": 0
+  },
+  {
+    "domain": "https://hostgator.com",
+    "label": 0
+  },
+  {
+    "domain": "https://netflix.net",
+    "label": 0
+  },
+  {
+    "domain": "https://tp-link.com",
+    "label": 0
+  },
+  {
+    "domain": "https://scdn.co",
+    "label": 0
+  },
+  {
+    "domain": "https://expireddomains.com",
+    "label": 0
+  },
+  {
+    "domain": "https://kwaipros.com",
+    "label": 0
+  },
+  {
+    "domain": "https://google.de",
+    "label": 0
+  },
+  {
+    "domain": "https://sohu.com",
+    "label": 0
+  },
+  {
+    "domain": "https://tiktokrow-cdn.com",
+    "label": 0
+  },
+  {
+    "domain": "https://ezvizlife.com",
+    "label": 0
+  },
+  {
+    "domain": "https://indeed.com",
+    "label": 0
+  },
+  {
+    "domain": "https://vivoglobal.com",
+    "label": 0
+  },
+  {
+    "domain": "https://ipv4only.arpa",
+    "label": 0
+  },
+  {
+    "domain": "https://unsplash.com",
+    "label": 0
+  },
+  {
+    "domain": "https://mediatek.com",
+    "label": 0
+  },
+  {
+    "domain": "https://sc-gw.com",
+    "label": 0
+  },
+  {
+    "domain": "https://cdnbuild.net",
+    "label": 0
+  },
+  {
+    "domain": "https://businessinsider.com",
+    "label": 0
+  },
+  {
+    "domain": "https://yandex.com",
+    "label": 0
+  },
+  {
+    "domain": "https://wb.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://temu.com",
+    "label": 0
+  },
+  {
+    "domain": "https://dnsmadeeasy.com",
+    "label": 0
+  },
+  {
+    "domain": "https://aol.com",
+    "label": 0
+  },
+  {
+    "domain": "https://amazonalexa.com",
+    "label": 0
+  },
+  {
+    "domain": "https://independent.co.uk",
+    "label": 0
+  },
+  {
+    "domain": "https://nvidia.com",
+    "label": 0
+  },
+  {
+    "domain": "https://nasa.gov",
+    "label": 0
+  },
+  {
+    "domain": "https://liadm.com",
+    "label": 0
+  },
+  {
+    "domain": "https://my.com",
+    "label": 0
+  },
+  {
+    "domain": "https://ip-api.com",
+    "label": 0
+  },
+  {
+    "domain": "https://duckduckgo.com",
+    "label": 0
+  },
+  {
+    "domain": "https://list-manage.com",
+    "label": 0
+  },
+  {
+    "domain": "https://tiktokcdn-eu.com",
+    "label": 0
+  },
+  {
+    "domain": "https://telegram.org",
+    "label": 0
+  },
+  {
+    "domain": "https://addtoany.com",
+    "label": 0
+  },
+  {
+    "domain": "https://plesk.com",
+    "label": 0
+  },
+  {
+    "domain": "https://pixabay.com",
+    "label": 0
+  },
+  {
+    "domain": "https://calendly.com",
+    "label": 0
+  },
+  {
+    "domain": "https://ngenix.net",
+    "label": 0
+  },
+  {
+    "domain": "https://tiktokv.eu",
+    "label": 0
+  },
+  {
+    "domain": "https://cookiedatabase.org",
+    "label": 0
+  },
+  {
+    "domain": "https://cornell.edu",
+    "label": 0
+  },
+  {
+    "domain": "https://taobao.com",
+    "label": 0
+  },
+  {
+    "domain": "https://avcdn.net",
+    "label": 0
+  },
+  {
+    "domain": "https://globo.com",
+    "label": 0
+  },
+  {
+    "domain": "https://telegram.me",
+    "label": 0
+  },
+  {
+    "domain": "https://steamcommunity.com",
+    "label": 0
+  },
+  {
+    "domain": "https://imcmdb.net",
+    "label": 0
+  },
+  {
+    "domain": "https://pangle.io",
+    "label": 0
+  },
+  {
+    "domain": "https://sfx.ms",
+    "label": 0
+  },
+  {
+    "domain": "https://amazon.de",
+    "label": 0
+  },
+  {
+    "domain": "https://teamviewer.com",
+    "label": 0
+  },
+  {
+    "domain": "https://duolingo.com",
+    "label": 0
+  },
+  {
+    "domain": "https://google.com.br",
+    "label": 0
+  },
+  {
+    "domain": "https://quora.com",
+    "label": 0
+  },
+  {
+    "domain": "https://qlivecdn.com",
+    "label": 0
+  },
+  {
+    "domain": "https://cnbc.com",
+    "label": 0
+  },
+  {
+    "domain": "https://firetvcaptiveportal.com",
+    "label": 0
+  },
+  {
+    "domain": "https://alidns.com",
+    "label": 0
+  },
+  {
+    "domain": "https://cdn90.cn",
+    "label": 0
+  },
+  {
+    "domain": "https://yahoo.co.jp",
+    "label": 0
+  },
+  {
+    "domain": "https://lijit.com",
+    "label": 0
+  },
+  {
+    "domain": "https://g.page",
+    "label": 0
+  },
+  {
+    "domain": "https://live-video.net",
+    "label": 0
+  },
+  {
+    "domain": "https://wyzecam.com",
+    "label": 0
+  },
+  {
+    "domain": "https://goodreads.com",
+    "label": 0
+  },
+  {
+    "domain": "https://statista.com",
+    "label": 0
+  },
+  {
+    "domain": "https://npr.org",
+    "label": 0
+  },
+  {
+    "domain": "https://xboxlive.com",
+    "label": 0
+  },
+  {
+    "domain": "https://appcenter.ms",
+    "label": 0
+  },
+  {
+    "domain": "https://myhuaweicloud.com",
+    "label": 0
+  },
+  {
+    "domain": "https://foxnews.com",
+    "label": 0
+  },
+  {
+    "domain": "https://xcal.tv",
+    "label": 0
+  },
+  {
+    "domain": "https://giphy.com",
+    "label": 0
+  },
+  {
+    "domain": "https://line.me",
+    "label": 0
+  },
+  {
+    "domain": "https://gitlab.com",
+    "label": 0
+  },
+  {
+    "domain": "https://uber.com",
+    "label": 0
+  },
+  {
+    "domain": "https://beian.gov.cn",
+    "label": 0
+  },
+  {
+    "domain": "https://mcafee.com",
+    "label": 0
+  },
+  {
+    "domain": "https://name-services.com",
+    "label": 0
+  },
+  {
+    "domain": "https://walmart.com",
+    "label": 0
+  },
+  {
+    "domain": "https://wbx2.com",
+    "label": 0
+  },
+  {
+    "domain": "https://zendesk.com",
+    "label": 0
+  },
+  {
+    "domain": "https://behance.net",
+    "label": 0
+  },
+  {
+    "domain": "https://eventbrite.com",
+    "label": 0
+  },
+  {
+    "domain": "https://kwai.net",
+    "label": 0
+  },
+  {
+    "domain": "https://deepintent.com",
+    "label": 0
+  },
+  {
+    "domain": "https://speedtest.net",
+    "label": 0
+  },
+  {
+    "domain": "https://nflximg.com",
+    "label": 0
+  },
+  {
+    "domain": "https://tripadvisor.com",
+    "label": 0
+  },
+  {
+    "domain": "https://bdydns.com",
+    "label": 0
+  },
+  {
+    "domain": "https://comcast.com",
+    "label": 0
+  },
+  {
+    "domain": "https://cdn20.com",
+    "label": 0
+  },
+  {
+    "domain": "https://online-metrix.net",
+    "label": 0
+  },
+  {
+    "domain": "https://imgsmail.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://avsxappcaptiveportal.com",
+    "label": 0
+  },
+  {
+    "domain": "https://goskope.com",
+    "label": 0
+  },
+  {
+    "domain": "https://b-msedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://2gis.com",
+    "label": 0
+  },
+  {
+    "domain": "https://indiatimes.com",
+    "label": 0
+  },
+  {
+    "domain": "https://att.net",
+    "label": 0
+  },
+  {
+    "domain": "https://wbbasket.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://wired.com",
+    "label": 0
+  },
+  {
+    "domain": "https://verisign.com",
+    "label": 0
+  },
+  {
+    "domain": "https://gosuslugi.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://icloud-content.com",
+    "label": 0
+  },
+  {
+    "domain": "https://afternic.com",
+    "label": 0
+  },
+  {
+    "domain": "https://firefox.com",
+    "label": 0
+  },
+  {
+    "domain": "https://s-msedge.net",
+    "label": 0
+  },
+  {
+    "domain": "https://google.co.uk",
+    "label": 0
+  },
+  {
+    "domain": "https://trustpilot.com",
+    "label": 0
+  },
+  {
+    "domain": "https://amzn.to",
+    "label": 0
+  },
+  {
+    "domain": "https://crpt.ru",
+    "label": 0
+  },
+  {
+    "domain": "https://discord.media",
+    "label": 0
+  },
+  {
+    "domain": "https://mysql.com",
+    "label": 0
+  },
+  {
+    "domain": "https://dnspod.net",
+    "label": 0
+  },
+  {
+    "domain": "https://xhamster.com",
+    "label": 0
+  },
+  {
+    "domain": "https://slideshare.net",
+    "label": 0
+  },
+  {
+    "domain": "https://netease.com",
+    "label": 0
+  },
+  {
+    "domain": "https://amplitude.com",
+    "label": 0
+  },
+  {
+    "domain": "https://msidentity.com",
+    "label": 0
+  },
+  {
+    "domain": "https://google.com.hk",
+    "label": 0
+  },
+  {
+    "domain": "https://indexww.com",
+    "label": 0
+  },
+  {
+    "domain": "https://scribd.com",
+    "label": 0
+  }
+]

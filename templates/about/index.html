@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Phishing Detector</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Font Awesome CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body style="font-family: 'Segoe UI', sans-serif; background: #0a0a0a; color: #f1f1f1; margin: 0; padding: 0;">
+  <div class="container" style="max-width: 1000px; margin: auto; padding: 20px; position: relative;">
+
+    <!-- Navigation -->
+    <nav style="display: flex; justify-content: space-between; align-items: center; padding: 15px 0; border-bottom: 1px solid #333;">
+      <div style="font-size: 1.3rem; font-weight: bold; color: #00c4ff;">
+        <i class="fa-solid fa-shield-halved"></i> SecureScan
+      </div>
+      <div>
+        <a href="/" style="text-decoration: none; color: #f1f1f1; margin-right: 25px; font-weight: 500; transition: color 0.3s;">Home</a>
+        <a href="/about" style="text-decoration: none; color: #00c4ff; font-weight: 500;">About</a>
+      </div>
+    </nav>
+
+    <!-- About Section -->
+    <section style="margin-top: 50px; text-align: center; position: relative; border-radius: 12px; ">
+      
+      <!-- Background Image -->
+      <img src="https://images.unsplash.com/photo-1655036387197-566206c80980?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d2Vic2l0ZSUyMGRldGVjdG9yfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500" 
+           alt="Cybersecurity"
+           style="width: 100%; height: 450px; object-fit: cover; filter: brightness(45%) blur(0.5px); border-radius: 12px;">
+      
+      <!-- Overlay Text Container -->
+      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                  background: rgba(15, 15, 15, 0.9); border-radius: 12px; padding: 35px 30px;
+                  width: 80%; max-width: 700px; box-shadow: 0 0 25px rgba(0,0,0,0.7); z-index: 2;">
+        <h2 style="color: #00c4ff; font-size: 1.8rem; margin-bottom: 15px;">
+          <i class="fa-solid fa-circle-info"></i> About Our Phishing Detector
+        </h2>
+        <p style="line-height: 1.7; font-size: 1rem; color: #d9d9d9;">
+          The AI Phishing Website Detector is built to protect users from malicious websites disguised as trusted platforms. 
+          Using advanced machine learning (XGBoost) and intelligent URL analysis, it identifies suspicious domains in real time. 
+          By constantly learning from live datasets of legitimate and phishing websites, the system ensures reliable, up-to-date 
+          threat detection. SecureScan empowers safe online browsing through AI-driven security awareness and automation.
+        </p>
+      </div>
+    </section>
+
+    <footer style="text-align: center; margin-top: 60px; font-size: 0.9rem; color: #888;">
+      <p>Developed by <strong style="color: #00c4ff;">Deborah</strong> | Secure the Web with AI</p>
+    </footer>
+  </div>
+</body>
+</html>

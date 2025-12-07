@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Phishing Website Detector | AI Security Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Font Awesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body style="font-family: 'Segoe UI', sans-serif; background: #0a0a0a; color: #f1f1f1; margin: 0; padding: 0;">
+  <div class="container" style="max-width: 900px; margin: auto; padding: 20px;">
+
+    <!-- Navigation -->
+    <nav style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0; border-bottom: 1px solid #444;">
+      <div style="font-size: 1.2rem; font-weight: bold; color: #00c4ff;">
+        <i class="fa-solid fa-shield-halved"></i> SecureScan
+      </div>
+      <div>
+        <a href="/" style="text-decoration: none; color: #f1f1f1; margin-right: 20px; font-weight: 500;">Home</a>
+        <a href="/about" style="text-decoration: none; color: #00c4ff; font-weight: 500;">About</a>
+      </div>
+    </nav>
+
+    <!-- Header -->
+    <header style="text-align: center; margin-top: 40px;">
+      <h1><i class="fa-solid fa-shield-halved"></i> Phishing Website Detector</h1>
+      <p>Check if a website is safe using our AI-powered phishing detector.</p>
+    </header>
+
+    <!-- Main -->
+    <main style="margin-top: 40px; text-align: center;">
+      <form method="POST" action="/predict" class="scan-form" style="margin-bottom: 30px;">
+        <input 
+          type="text" 
+          name="url" 
+          placeholder="Enter website URL e.g. https://paypal-login-secure.com"
+          required
+          style="width: 98%; padding: 10px; border-radius: 6px; border: none; outline: none; font-size: 1rem;"
+        >
+        <button type="submit" style="padding: 10px 20px; background-color: #00c4ff; color: #fff; border: none; border-radius: 6px; cursor: pointer; font-weight: 600;">
+          <i class="fa-solid fa-search"></i> Scan Now
+        </button>
+      </form>
+
+      {% if prediction %}
+      <div class="result {{ prediction|lower }}" style="background: #111; border-radius: 10px; padding: 20px; margin-top: 20px;">
+        <h2><i class="fa-solid fa-circle-info"></i> Result: {{ prediction }}</h2>
+        <p><i class="fa-solid fa-gauge"></i> Confidence Score: {{ confidence }}</p>
+        <p class="url"><i class="fa-solid fa-link"></i> Scanned URL: {{ url }}</p>
+      </div>
+      {% endif %}
+
+      <div class="results_visual">
+        {% if confusion_img %}
+          <div class="chart-container">
+            <h3 class="chart-title"><i class="fa-solid fa-chart-simple"></i> Model Performance</h3>
+            <img 
+              src="data:image/png;base64,{{ confusion_img }}" 
+              alt="Confusion Matrix" 
+              class="confusion-matrix"
+            >
+          </div>
+        {% endif %}
+        
+        {% if report_html %}
+          <div class="report-container">
+            <h3 class="report-title"><i class="fa-solid fa-table-list"></i> Classification Report</h3>
+            <div class="report-table">
+              {{ report_html|safe }}
+            </div>
+          </div>
+        {% endif %}
+      </div>
+
+
+      <a href="#" id="refreshBtn" class="refresh-btn" style="display: inline-block; margin-top: 20px; color: #00c4ff; text-decoration: none;">
+        <i class="fa-solid fa-rotate-right"></i> Refresh Live Data
+      </a>
+      <p id="refreshStatus" style="margin-top: 10px; color: #ccc;"></p>
+
+      <script>
+      document.getElementById('refreshBtn').addEventListener('click', async (e) => {
+        e.preventDefault();
+        document.getElementById('refreshStatus').textContent = "Refreshing data...";
+        const res = await fetch('/refresh-data');
+        const data = await res.json();
+        document.getElementById('refreshStatus').textContent = data.message;
+      });
+      </script>
+    </main>
+
+    <footer style="text-align: center; margin-top: 60px; font-size: 0.9rem; color: #888;">
+      <p>Developed by <strong style="color: #00c4ff;">Deborah</strong> | Powered by Flask + XGBoost + Live API Data</p>
+    </footer>
+  </div>
+</body>
+</html>
